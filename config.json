@@ -1,8 +1,8 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": ".",
+    "mongodbUri": "mongodb+srv://lewislambern:Z3roaster1@system.5yqkrun.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
@@ -30,11 +30,11 @@
     },
      "lavalink": {
         "lavalink": {
-        "identifier": "GlaceYT",
-        "password": "glaceyt",
-        "host": "193.226.78.187",
-        "port":  9372,
-        "secure": false
+        "identifier": "Lava",
+        "password": "https://dsc.gg/ajidevserver",
+        "host": "lava-all.ajieblogs.eu.org",
+        "port":  443,
+        "secure": true
       }
     }, 
     "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
